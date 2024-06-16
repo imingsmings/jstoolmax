@@ -1,9 +1,3 @@
-import { range } from './array'
-import { debounce } from './function'
-import { truncate } from './string'
-
-export default {
-    range,
-    debounce,
-    truncate
-}
+export * from './array'
+export * from './function'
+export * from './string'

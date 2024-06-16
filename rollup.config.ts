@@ -6,8 +6,7 @@ import { terser } from 'rollup-plugin-terser'
 const outputConfigs = [
     {
         file: 'dist/index.common.js',
-        format: 'cjs',
-        exports: 'default'
+        format: 'cjs'
     },
     {
         file: 'dist/index.esm.js',
@@ -17,8 +16,7 @@ const outputConfigs = [
     {
         file: 'dist/index.js',
         format: 'umd',
-        name: 'jstm',
-        exports: 'default'
+        name: 'jstm'
     }
 ]
 

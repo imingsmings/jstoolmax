@@ -1,8 +1,7 @@
 {
   "name": "jstoolmax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jstoolmax is a JavaScript utility library that provides commonly used functions and methods to facilitate JavaScript application development.",
-  "type": "module",
   "main": "dist/index.common.js",
   "module": "dist/index.esm.js",
   "browser": "dist/index.js",
