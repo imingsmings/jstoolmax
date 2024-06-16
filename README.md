@@ -67,6 +67,6 @@ fn() //  Won't execute immediately
 
 If you encounter any issues while using jstoolmax, or have any suggestions and ideas, please feel free to raise an issue or submit a PR on GitHub.
 
-## 许可证
+## License
 
 jstoolmax follows the MIT license. For more details, please refer to the LICENSE file.
