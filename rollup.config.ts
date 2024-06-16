@@ -6,7 +6,7 @@ import { dts } from 'rollup-plugin-dts'
 
 const outputConfigs = [
     {
-        file: 'dist/index.common.js',
+        file: 'dist/index.cjs',
         format: 'cjs'
     },
     {
