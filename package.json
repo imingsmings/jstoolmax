@@ -1,6 +1,6 @@
 {
   "name": "jstoolmax",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "jstoolmax is a JavaScript utility library that provides commonly used functions and methods to facilitate JavaScript application development.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -32,6 +32,14 @@
     "./dist",
     "LICENSE"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imingsmings/jstoolmax"
+  },
+  "bugs": {
+    "url": "https://github.com/imingsmings/jstoolmax/issues"
+  },
+  "homepage": "https://github.com/imingsmings/jstoolmax#readme",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
